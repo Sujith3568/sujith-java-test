@@ -6,8 +6,8 @@ Then using StringBuilder and .reverse() method the cleaned string is revesed and
 By using .equals() the isPalindrome() return true if revered string and cleaned string are same otherwise false.<br>
 In the main method the isPalindrome() method is called along with sending the string as argument and the result is printed.<br>
 To run the code/file<br> 
-      In the terminal- 1.    javac PalindromeChecker.java <br>
-                      then   java PalindromeChecker
+      In the terminal:    javac PalindromeChecker.java <br>
+                      then <br>  java PalindromeChecker
 
 # Task 2: Simple Employee Class
 The constructor of Employee class is created which take 3 parameter.<br> 
@@ -16,8 +16,8 @@ In the main method the 2 employees object are created.<br>
 The first employee salary is increased by 10% by calling the increaseSalary() method and sending the 10% as the argument.<br>
 Finally printed both employee details where first employee salary is increased by 10% and the second employee salary remain same.<br>
 To run the code/file <br>
-      In the terminal- 1.    javac SimpleEmployeeClass.java <br>
-                      then   java SimpleEmployeeClass
+      In the terminal:    javac SimpleEmployeeClass.java <br>
+                      then <br>  java SimpleEmployeeClass
                       
 # Task 3: Database Query Simulator
 The getOpenCases() method will take the list of cases as argument and return the list of cases whose status = open.<br>
@@ -26,5 +26,5 @@ Inside the main method 5 sample cases are created and added to the list. <br>
 This list is send to the getOpencases() method as the argument.<br>
 The list of cases whose status = open are printed.<br>
 To run the code/file <br>
-      In the terminal- 1.    javac DatabaseQuerySimulator.java <br>
-                      then   java DatabaseQuerySimulator
+      In the terminal:    javac DatabaseQuerySimulator.java <br>
+                      then <br>  java DatabaseQuerySimulator
