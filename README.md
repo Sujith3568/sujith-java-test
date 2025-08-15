@@ -15,7 +15,7 @@ increaseSalary() method  will increase the salary by the percentage that the use
 In the main method the 2 employees object are created.
 The first employee salary is increased by 10% by calling the increaseSalary() method and sending the 10% as the argument.
 Finally printed both employee details where first employee salary is increased by 10% and the second employee salary remain same.
-\n To run the code/file 
+To run the code/file 
       In the terminal- 1.    javac SimpleEmployeeClass.java
                       then   java SimpleEmployeeClass
                       
